@@ -30,6 +30,8 @@
 &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.instagram.com/ganethra_heshan" target="_blank"><img align="center" src="./Img/insta.png" alt="⏳" width="3%"></a>
 &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://g.dev/GANETHRAHESHAN" target="_blank"><img align="center" src="./Img/dev.png" alt="⏳" width="3%"></a>
+&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://discordapp.com/users/779961108403847168" target="_blank"><img align="center" src="./Img/dis.png" alt="⏳" width="2.7%"></a>
 	
 </p>  

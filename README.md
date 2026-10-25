@@ -1,112 +1,171 @@
- <!-- HEADER -->
-<div align="center">
+ <div align="center">
 
-# 👋 Hi, I'm Ganethra Heshan
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Ganethra%20Heshan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%" alt="Animated developer banner"/>
 
-### 🎓 Physical Science Undergraduate | 💻 Aspiring Full-Stack Engineer
-
-*Building my skills one line of code at a time.*
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;Physical+Science+Undergraduate+%F0%9F%8E%93;Learning+Web+Development+%F0%9F%92%BB;Building+My+Future+in+Full-Stack+Development+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:007ACC,100:00D4FF&height=180&section=header&text=Ganethra%20Heshan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Code%20%7C%20Create%20%7C%20Innovate&descAlignY=55&descSize=16" width="100%" alt="Profile banner"/>
+<br/>
+
+<a href="https://github.com/GANETHRAHESHAN">
+<img src="https://img.shields.io/badge/GitHub-GANETHRAHESHAN-24283b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/GANETHRAHESHAN?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My_Projects-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 Undergraduate in **Physical Science**
-- 📚 Studying **Mathematics, Statistics, and Computer Science**
-- 💻 Currently learning **C programming and software development fundamentals**
-- 🌐 My goal is to become a **Full-Stack Engineer**
-- 🧠 Interested in web development, problem-solving, and building useful applications
-- 📈 Always learning, experimenting, and improving my coding skills
+```javascript
+const heshan = {
+    name: "Ganethra Heshan",
+    role: "Aspiring Full-Stack Engineer",
+    education: "Physical Science Undergraduate",
+    degree: {
+        mathematics: true,
+        statistics: true,
+        computerScience: true
+    },
+    currentlyLearning: [
+        "C Programming",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git & GitHub"
+    ],
+    interests: [
+        "Web Development",
+        "Problem Solving",
+        "Software Engineering",
+        "Building Useful Applications"
+    ],
+    goal: "Become a Full-Stack Engineer",
+    mindset: "Learn. Build. Improve. Repeat."
+};
+
+console.log("Welcome to my GitHub! 🚀");
+```
+
+- 🎓 Studying Physical Science with Mathematics, Statistics, and Computer Science.
+- 🌱 Currently developing my programming and web development skills.
+- 💻 Interested in creating modern, responsive, and user-friendly websites.
+- 🧠 I enjoy solving problems and learning how software works.
+- 🎯 My goal is to become a Full-Stack Engineer and build real-world applications.
+- 🤝 Open to learning opportunities, collaboration, and future software engineering internships.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
-### Languages
+### 💻 Programming Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=c" alt="C"/>
+<img src="https://skillicons.dev/icons?i=c,html,css,js" alt="C, HTML, CSS and JavaScript"/>
 </p>
 
-### Tools I Use
+### ⚙️ Development Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code"/>
 </p>
 
-### Technologies I'm Planning to Learn
+### 🌐 Technologies on My Learning Roadmap
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,postgres" alt="Web development technologies"/>
+<img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,mongodb" alt="TypeScript, React, Node.js, Express, PostgreSQL and MongoDB"/>
 </p>
+
+<sub>I'm learning the fundamentals first and will add these technologies to my active skill set as I gain experience.</sub>
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GANETHRAHESHAN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANETHRAHESHAN&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=GANETHRAHESHAN&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 💻 Featured Projects
+## 🚀 Featured Projects
 
-> 🚧 I'm building my programming portfolio. Check back as I add more projects!
+<div align="center">
 
-- 🔹 **C Programming Projects** — Programs and problem-solving exercises using C.
-- 🔹 **Personal Portfolio Website** — A website to showcase my skills and projects.
-- 🔹 **Full-Stack Web Applications** — Future projects combining front-end and back-end development.
+<a href="https://github.com/GANETHRAHESHAN?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My_Repositories-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 
-Explore my repositories: [GitHub Projects](https://github.com/YOUR_USERNAME?tab=repositories)
+</div>
+
+### 💡 What I'm Building
+
+| Project | Description | Technologies |
+|---|---|---|
+| 🧮 C Programming | University exercises and programming challenges | C |
+| 🌐 Personal Portfolio | A responsive website to showcase my skills and projects | HTML, CSS, JavaScript |
+| 🎓 Student Projects | Academic projects related to Mathematics, Statistics, and Computer Science | C, JavaScript |
+| 🚀 Full-Stack Applications | Future applications with front-end, back-end, and database functionality | React, Node.js, SQL |
+
+*These are my portfolio goals. Visit my repositories to see which projects are available.*
 
 ---
 
-## 🎯 My Learning Roadmap
+## 🎯 My Developer Roadmap
 
-- [x] Start learning C programming
-- [x] Begin using Git and GitHub
-- [ ] Strengthen programming fundamentals
-- [ ] Learn HTML, CSS, and JavaScript
-- [ ] Learn React and modern front-end development
-- [ ] Learn Node.js and back-end development
-- [ ] Work with SQL and databases
+- [x] Create a GitHub profile and start using Git
+- [x] Begin learning C programming
+- [x] Set up a development environment using VS Code
+- [ ] Strengthen programming fundamentals and problem-solving
+- [ ] Master HTML and CSS
+- [ ] Build interactive applications with JavaScript
+- [ ] Learn responsive web design
+- [ ] Learn React for front-end development
+- [ ] Learn Node.js and Express for back-end development
+- [ ] Learn SQL and database design
 - [ ] Build and deploy full-stack applications
-- [ ] Apply for software engineering internships
+- [ ] Develop a strong portfolio for software engineering internships
 
 ---
 
-## 🤝 Connect With Me
-
-I'm always interested in learning, collaborating, and connecting with fellow developers.
-
-<p align="center">
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-</p>
+## 🐍 My Contribution Journey
 
 <div align="center">
 
-### ✨ "The best way to predict the future is to build it."
+<img src="https://raw.githubusercontent.com/GANETHRAHESHAN/GANETHRAHESHAN/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:007ACC,100:6A5ACD&height=100&section=footer" width="100%" alt="Footer banner"/>
+</div>
+
+---
+
+## ☕ A Little Motivation
+
+<div align="center">
+
+> "Great software is built one problem, one solution, and one line of code at a time."
+
+**Learn something new. Build something useful. Repeat.** 💙
+
+<br/>
+
+<img src="https://img.shields.io/badge/Status-Always_Learning-7aa2f7?style=flat-square" alt="Always learning"/>
+<img src="https://img.shields.io/badge/Focus-Full--Stack_Development-bb9af7?style=flat-square" alt="Full-stack development"/>
+<img src="https://img.shields.io/badge/Mindset-Never_Stop_Learning-9ece6a?style=flat-square" alt="Never stop learning"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" alt="Footer banner"/>
 
 </div>

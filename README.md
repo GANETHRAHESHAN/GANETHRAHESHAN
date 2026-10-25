@@ -99,12 +99,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Status-Always_Learning-7aa2f7?style=flat-square" alt="Always learning"/>
-<img src="https://img.shields.io/badge/Focus-Full--Stack_Development-bb9af7?style=flat-square" alt="Full-stack development"/>
-<img src="https://img.shields.io/badge/Mindset-Never_Stop_Learning-9ece6a?style=flat-square" alt="Never stop learning"/>
-
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" width="100%" alt="Footer banner"/>
 
 </div>

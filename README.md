@@ -110,6 +110,37 @@ console.log("Welcome to my GitHub! 🚀");
 
 ---
 
+<!-- SOCIAL MEDIA -->
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/ganethra-heshan-721799404" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="Connect with me on LinkedIn"
+    />
+  </a>
+  <a href="https://www.instagram.com/ganethra_heshan/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      alt="Follow me on Instagram"
+    />
+  </a>
+  <a href="https://github.com/GANETHRAHESHAN" target="_blank">
+    <img
+      src="https://img.shields.io/badge/GitHub-Follow-24283B?style=for-the-badge&logo=github&logoColor=white"
+      alt="Follow me on GitHub"
+    />
+  </a>
+</p>
+
+<p align="center">
+  💬 Open to learning, collaboration, and exciting software development projects!
+</p>
+
+
+---
+
 ## ☕ A Little Motivation
 
 <div align="center">

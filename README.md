@@ -24,13 +24,13 @@
 ## Connect with me
 <p align="left">
 &nbsp;
-<a href="linkedin.com/in/ganethra-heshan-721799404" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/5fcf4c00-a9b4-4cf2-9fba-7afb4e9b466e" alt="⏳" width="4.5%"></a>
+<a href="linkedin.com/in/ganethra-heshan-721799404" target="_blank"><img align="center" src="./Img/lin.png" alt="⏳" width="4.5%"></a>
 &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://www.hackerrank.com/profile/heshanpathirana1" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/ed129271-15ff-4960-8489-483038c6dd4c" alt="⏳" width="3.5%"></a>
+<a href="https://www.hackerrank.com/profile/heshanpathirana1" target="_blank"><img align="center" src="./Img/HR.jpg" alt="⏳" width="3.5%"></a>
 &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://www.instagram.com/ganethra_heshan" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/de77fae4-3431-4be0-8b44-170c44b6d3f9" alt="⏳" width="3%"></a>
+<a href="https://www.instagram.com/ganethra_heshan" target="_blank"><img align="center" src="./Img/insta.png" alt="⏳" width="3%"></a>
 &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://discordapp.com/users/779961108403847168" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/64fb45f6-5872-453c-8154-3e046593120f" alt="⏳" width="2.7%"></a>
+<a href="https://discordapp.com/users/779961108403847168" target="_blank"><img align="center" src="./Img/dis.png" alt="⏳" width="2.7%"></a>
 	
 </p>  
 

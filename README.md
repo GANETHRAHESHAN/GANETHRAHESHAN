@@ -6,50 +6,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Hello%2C+World!+%F0%9F%91%8B;Physical+Science+Undergraduate+%F0%9F%8E%93;Learning+Web+Development+%F0%9F%92%BB;Building+My+Future+in+Full-Stack+Development+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
-<br/>
-
-<a href="https://github.com/GANETHRAHESHAN">
-<img src="https://img.shields.io/badge/GitHub-GANETHRAHESHAN-24283b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://github.com/GANETHRAHESHAN?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My_Projects-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
-</a>
-
 </div>
 
 ---
 
 ## 👨‍💻 About Me
-
-```javascript
-const heshan = {
-    name: "Ganethra Heshan",
-    role: "Aspiring Full-Stack Engineer",
-    education: "Physical Science Undergraduate",
-    degree: {
-        mathematics: true,
-        statistics: true,
-        computerScience: true
-    },
-    currentlyLearning: [
-        "C Programming",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Git & GitHub"
-    ],
-    interests: [
-        "Web Development",
-        "Problem Solving",
-        "Software Engineering",
-        "Building Useful Applications"
-    ],
-    goal: "Become a Full-Stack Engineer",
-    mindset: "Learn. Build. Improve. Repeat."
-};
-
-console.log("Welcome to my GitHub! 🚀");
-```
 
 - 🎓 Studying Physical Science with Mathematics, Statistics, and Computer Science.
 - 🌱 Currently developing my programming and web development skills.
@@ -57,6 +18,21 @@ console.log("Welcome to my GitHub! 🚀");
 - 🧠 I enjoy solving problems and learning how software works.
 - 🎯 My goal is to become a Full-Stack Engineer and build real-world applications.
 - 🤝 Open to learning opportunities, collaboration, and future software engineering internships.
+
+---
+
+## Connect with me
+<p align="left">
+&nbsp;
+<a href="linkedin.com/in/ganethra-heshan-721799404" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/5fcf4c00-a9b4-4cf2-9fba-7afb4e9b466e" alt="⏳" width="4.5%"></a>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://www.hackerrank.com/profile/heshanpathirana1" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/ed129271-15ff-4960-8489-483038c6dd4c" alt="⏳" width="3.5%"></a>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://www.instagram.com/ganethra_heshan" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/de77fae4-3431-4be0-8b44-170c44b6d3f9" alt="⏳" width="3%"></a>
+&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://discordapp.com/users/779961108403847168" target="_blank"><img align="center" src="https://github.com/TYehan/TYehan/assets/85949077/64fb45f6-5872-453c-8154-3e046593120f" alt="⏳" width="2.7%"></a>
+	
+</p>  
 
 ---
 
@@ -110,36 +86,6 @@ console.log("Welcome to my GitHub! 🚀");
 
 ---
 
-<!-- SOCIAL MEDIA -->
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ganethra-heshan-721799404" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Connect with me on LinkedIn"
-    />
-  </a>
-  <a href="https://www.instagram.com/ganethra_heshan/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Follow me on Instagram"
-    />
-  </a>
-  <a href="https://github.com/GANETHRAHESHAN" target="_blank">
-    <img
-      src="https://img.shields.io/badge/GitHub-Follow-24283B?style=for-the-badge&logo=github&logoColor=white"
-      alt="Follow me on GitHub"
-    />
-  </a>
-</p>
-
-<p align="center">
-  💬 Open to learning, collaboration, and exciting software development projects!
-</p>
-
-
----
 
 ## ☕ A Little Motivation
 

@@ -84,45 +84,6 @@ console.log("Welcome to my GitHub! 🚀");
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GANETHRAHESHAN&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GANETHRAHESHAN&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=GANETHRAHESHAN&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/GANETHRAHESHAN?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My_Repositories-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
-</a>
-
-</div>
-
-### 💡 What I'm Building
-
-| Project | Description | Technologies |
-|---|---|---|
-| 🧮 C Programming | University exercises and programming challenges | C |
-| 🌐 Personal Portfolio | A responsive website to showcase my skills and projects | HTML, CSS, JavaScript |
-| 🎓 Student Projects | Academic projects related to Mathematics, Statistics, and Computer Science | C, JavaScript |
-| 🚀 Full-Stack Applications | Future applications with front-end, back-end, and database functionality | React, Node.js, SQL |
-
-*These are my portfolio goals. Visit my repositories to see which projects are available.*
-
----
-
 ## 🎯 My Developer Roadmap
 
 - [x] Create a GitHub profile and start using Git
@@ -139,8 +100,7 @@ console.log("Welcome to my GitHub! 🚀");
 - [ ] Develop a strong portfolio for software engineering internships
 
 ---
-
-## 🐍 My Contribution Journey
+🐍 My Contribution Journey
 
 <div align="center">
 

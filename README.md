@@ -100,7 +100,7 @@ console.log("Welcome to my GitHub! 🚀");
 - [ ] Develop a strong portfolio for software engineering internships
 
 ---
-🐍 My Contribution Journey
+## 🐍 My Contribution Journey
 
 <div align="center">
 

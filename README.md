@@ -38,46 +38,6 @@
 
 ---
 
-## 🛠️ My Tech Stack
-
-### 💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,html,css,js" alt="C, HTML, CSS and JavaScript"/>
-</p>
-
-### ⚙️ Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code"/>
-</p>
-
-### 🌐 Technologies on My Learning Roadmap
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,express,postgres,mongodb" alt="TypeScript, React, Node.js, Express, PostgreSQL and MongoDB"/>
-</p>
-
-<sub>I'm learning the fundamentals first and will add these technologies to my active skill set as I gain experience.</sub>
-
----
-
-## 🎯 My Developer Roadmap
-
-- [x] Create a GitHub profile and start using Git
-- [x] Begin learning C programming
-- [x] Set up a development environment using VS Code
-- [ ] Strengthen programming fundamentals and problem-solving
-- [ ] Master HTML and CSS
-- [ ] Build interactive applications with JavaScript
-- [ ] Learn responsive web design
-- [ ] Learn React for front-end development
-- [ ] Learn Node.js and Express for back-end development
-- [ ] Learn SQL and database design
-- [ ] Build and deploy full-stack applications
-- [ ] Develop a strong portfolio for software engineering internships
-
----
 ## 🐍 My Contribution Journey
 
 <div align="center">
